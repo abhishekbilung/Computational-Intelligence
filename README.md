@@ -1,5 +1,5 @@
-# Computational-Intelligence
-Predictive Maintenance for IoT Devices using Random Forest Classifier with Genetic Algorithm for Feature Selection
+
+# Predictive Maintenance for IoT Devices using Random Forest Classifier with Genetic Algorithm for Feature Selection
 
 This project focuses on predictive maintenance for IoT devices using machine learning techniques, specifically the Random Forest classifier. It also incorporates a Genetic Algorithm (GA) to optimize the feature selection process, ensuring that the most relevant and impactful features are used for model training. The aim is to predict the failure of IoT devices based on sensor data and perform maintenance proactively.
 Key Features:
