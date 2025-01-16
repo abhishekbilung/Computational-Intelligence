@@ -34,7 +34,7 @@ Navigate to the project directory:
 
 Install the required dependencies:
 
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
 
 Run the Python script to train the model with feature selection:
 
